@@ -171,7 +171,7 @@ out_prefix=./Result/DPR_CHR1
 cd TIGAR
 
 ./TIGAR_TWAS.sh --asso 2 \
---Gene_Exp ${Gene_Exp_path} 
+--Gene_Exp ${Gene_Exp_path} \
 --Zscore ${Zscore} --Weight ${Weight} --Covar ${Covar} --chr 1 \
 --out ${out_prefix}
 ```
