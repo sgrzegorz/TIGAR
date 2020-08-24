@@ -137,6 +137,7 @@ cd TIGAR
 --train_weight_path ${train_weight_path} \
 --train_info_path ${train_info_path} \
 --genofile_type vcf \
+--sampleID ${sampleID} \
 --genofile ${genofile} --Format GT \
 --out ${out_prefix}
 ```
