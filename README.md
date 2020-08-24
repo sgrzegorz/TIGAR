@@ -164,7 +164,7 @@ cd TIGAR
 ```
 Gene_Exp_path=./example_data/Gene_Exp.txt
 Zscore=./example_data/example_Zscore/CHR1_GWAS_Zscore.txt.gz
-Weight=./DPR_CHR1/CHR1_DPR_training_param.txt
+Weight=./Result/DPR_CHR1/CHR1_DPR_training_weight.txt
 Covar=./Result/reference_cov/CHR1_reference_cov.txt.gz
 out_prefix=./Result/DPR_CHR1
 
