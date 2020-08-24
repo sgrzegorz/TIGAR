@@ -135,7 +135,7 @@ cd TIGAR
 ./TIGAR_Model_Pred.sh --model elastic_net \
 --chr 1 \
 --train_weight_path ${train_weight_path} \
---train_info_ptah ${train_info_path} \
+--train_info_path ${train_info_path} \
 --genofile_type vcf \
 --genofile ${genofile} --Format GT \
 --out ${out_prefix}
