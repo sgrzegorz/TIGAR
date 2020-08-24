@@ -153,7 +153,7 @@ out_prefix=./Result/DPR_CHR1
 cd TIGAR
 
 ./TIGAR_TWAS.sh --asso 1 \
---Gene_EXP ${Gene_Exp_path} \
+--Gene_Exp ${Gene_Exp_path} \
 --PED ${PED} --Asso_Info ${Asso_Info} \
 --out ${out_prefix}
 ```
