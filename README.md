@@ -142,7 +142,7 @@ cd TIGAR
 ```
 
 4. TWAS
-- Using individual-level GWAS data. Take the output `*_GReX_prediction.txt` from gene expression prediction as the input for `--Gene_EXP` here.
+- Using individual-level GWAS data. Take the output `*_GReX_prediction.txt` from gene expression prediction as the input for `--Gene_Exp` here.
 
 ```
 Gene_Exp_path=./Result/DPR_CHR1/CHR1_DPR_GReX_prediction.txt
