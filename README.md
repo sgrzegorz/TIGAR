@@ -179,7 +179,7 @@ cd TIGAR
 - Generate Reference Covariance File
 ```
 block=./example_data/block_annotation_EUR.txt
-genofile=./example_data/example.vcf.gz
+genofile=./example_data/Genotype/example.vcf.gz
 out_prefix=./Result
 
 cd TIGAR
